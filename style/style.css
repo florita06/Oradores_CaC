@@ -1,0 +1,77 @@
+.conf {
+    color:rgb(235, 237, 238);
+    vertical-align: middle;
+    list-style: none;
+    font-size: 20px;
+ }
+
+
+
+.banner img{
+    position:static;
+    display:inline-block;
+    text-align: center;
+    
+}
+
+.banner p {
+    position:absolute;
+    width: 500px;
+    top: 350px;
+    right: 150px;
+    color: white;
+   text-align: end;
+   font-size: 17px;     
+}
+
+.banner strong{
+    font-size:20px;
+}
+
+.boton1{
+    border:1px solid white;
+    padding: 8px;
+    border-radius: 3px;
+    font-size: 17px; 
+    text-decoration: none;  
+    color:white;      
+}
+
+.boton1:hover{
+    background-color: white;
+    text-decoration: none;  
+    color:black;
+    } 
+
+.boton2{
+    border:1px solid rgb(47, 129, 58);
+    background-color:rgb(47, 129, 58) ;
+    padding: 8px;
+    border-radius: 3px;
+    font-size: 17px; 
+    text-decoration: none;  
+    color:white;
+}
+
+.boton2:hover{
+    background-color: rgb(29, 158, 68);
+    text-decoration: none;  
+    color:white;
+    } 
+
+
+.card{
+    font-size: 15px;
+}
+
+.boton3{
+    
+    background-color:rgb(94, 180, 106) ;
+    display:flex;
+    justify-content: center;
+    padding: 6px;
+    border-radius: 3px;
+    font-size: 15px; 
+    text-decoration: none;  
+    color:white;
+}
